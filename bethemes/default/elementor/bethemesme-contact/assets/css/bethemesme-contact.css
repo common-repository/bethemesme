@@ -1,0 +1,231 @@
+/*--------------------------------------------------------------
+	Contact Item
+--------------------------------------------------------------*/
+.bethemesme_contact_module .contact-item {
+	position: relative;
+	margin-bottom: 50px;
+	padding-right: 65px;
+	text-align: right;
+	overflow: hidden;
+	opacity: .8;
+
+	-webkit-transition: opacity .5s ease;
+			transition: opacity .5s ease;
+
+	-webkit-transform: translateZ(0);
+}
+
+.bethemesme_contact_module .contact-info .contact-item:last-child {
+	margin-bottom: 0;
+}
+
+.bethemesme_contact_module .contact-item:hover {
+	opacity: 1;
+}
+
+.bethemesme_contact_module .contact-item .ci-icon {
+	position: absolute;
+	top: 0;
+	right: 5px;
+	width: 45px;
+	height: 45px;
+	font-size: 1.538em;
+	line-height: 2.25em;
+	text-align: center;
+	border-left: 1px solid;
+}
+
+.bethemesme_contact_module .contact-item .ci-title {
+	font-size: .923em;
+	font-weight: 700;
+	line-height: 1.6em;
+	letter-spacing: .083em;
+	text-transform: uppercase;
+	margin-bottom: 4px;
+}
+
+.bethemesme_contact_module .contact-item .ci-content {
+	font-size:15px;
+	font-weight: 300;
+	letter-spacing: .063em;
+}
+
+/*--------------------------------------------------------------
+4.6.2 Contact Form
+--------------------------------------------------------------*/
+.bethemesme_contact_module .contact-form label {
+	display: none !important;
+}
+
+.bethemesme_contact_module .contact-form #contact-form-result,
+.bethemesme_contact_module .contact-form .contact-form-process {
+	position: absolute;
+	display: none;
+	width: 100%;
+	height: 100%;
+	z-index: 999;
+}
+
+.bethemesme_contact_module .contact-form-process i {
+	position: relative;
+	top: 40%;
+	left: 45%;
+	font-size: 2.308em;
+}
+
+.bethemesme_contact_module #contact-form-result span {
+	position: relative;
+	top: 35%;
+	left: 30%;
+	color: #fff;
+	padding: 15px;
+	border-radius: 5px;
+}
+
+.bethemesme_contact_module #contact-form-result span i {
+	margin-right: 5px;
+}
+
+.bethemesme_contact_module .contact-form textarea,
+.bethemesme_contact_module .contact-form input[type="text"],
+.bethemesme_contact_module .contact-form input[type="email"] {
+	resize: none;
+	padding: 0 0 10px 2px;
+	line-height: 1.538em;
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid;
+	opacity: .7;
+
+	-webkit-transition: all .3s ease;
+			transition: all .3s ease;
+}
+
+.bethemesme_contact_module .contact-form input:focus,
+.bethemesme_contact_module .contact-form textarea:focus {
+	outline: 0;
+	opacity: 1;
+}
+
+.bethemesme_contact_module .contact-form input.error,
+.bethemesme_contact_module .contact-form textarea.error {
+	color: #ff2000;
+}
+
+.bethemesme_contact_module .contact-form .btn {
+	width: 100%;
+	font-size: 1.154em;
+	letter-spacing: .133em;
+}
+.bethemesme_contact_module .bethemesme_btn_text:before {
+    background-color: transparent;
+    background-image: linear-gradient(100deg, #F87759 0%, #f2295b 100%);
+}
+.bethemesme_contact_module .bethemesme_btn_text:hover:after {
+    border-color: #F2295B;
+}
+
+.bethemesme_contact_module .bethemesme_contact_module{
+	background-color:#ffffff;
+}
+
+.bethemesme_contact_module .contact-item{
+	opacity:1;
+}
+.bethemesme_contact_module textarea::placeholder,
+.bethemesme_contact_module input::placeholder{
+	font-size: 15px;
+	font-weight: 700;
+}
+.bethemesme_contact_module{
+	padding-top: 30px;
+	padding-bottom: 70px;
+}
+.bethemesme_contact_module .bethemesme_contact_content{
+	padding-top: 70px;
+	padding-left: 30px;
+}
+.bethemesme_contact_module .bethemesme_contact_cntnt{
+	padding-left:0px;
+}
+
+.bethemesme_contact_module .bethemesme_btn_text{
+	transition: 0.35s;
+	position: relative;
+	padding: 15px 35px;
+}
+.bethemesme_contact_module .bethemesme_btn_text span{
+	position: relative;
+	z-index: 99;
+	color:#fff;
+}
+.bethemesme_contact_module .bethemesme_btn_text:hover span{
+	color:#f2295b;
+}
+.bethemesme_contact_module .bethemesme_btn_text:before{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	-webkit-transition: all 0.35s;
+	-moz-transition: all 0.35s;
+	-o-transition: all 0.35s;
+	transition: all 0.35s;
+}
+.bethemesme_contact_module .bethemesme_btn_text:after{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	opacity: 0;
+	-webkit-transition: all 0.35s;
+	-moz-transition: all 0.35s;
+	-o-transition: all 0.35s;
+	transition: all 0.35s;
+	border: 2px solid transparent;
+	-webkit-transform: scale(1.2, 1.2);
+	-moz-transform: scale(1.2, 1.2);
+	-ms-transform: scale(1.2, 1.2);
+	-o-transform: scale(1.2, 1.2);
+	transform: scale(1.2, 1.2);
+}
+.bethemesme_contact_module .bethemesme_btn_text:hover:after{
+	opacity: 1;
+	border: 2px solid #f2295b;
+	-webkit-transform: scale(1, 1);
+	-moz-transform: scale(1, 1);
+	-ms-transform: scale(1, 1);
+	-o-transform: scale(1, 1);
+	transform: scale(1, 1);
+}
+.bethemesme_contact_module .bethemesme_btn_text:hover:before{
+	opacity: 0;
+	-webkit-transform: scale(0.5, 0.5);
+	-moz-transform: scale(0.5, 0.5);
+	-ms-transform: scale(0.5, 0.5);
+	-o-transform: scale(0.5, 0.5);
+	transform: scale(0.5, 0.5);
+}
+@media screen and (min-width:768px) and (max-width:991px){
+	.bethemesme_contact_module .contact-item .ci-icon{
+		left: 175px;
+		border-bottom:none;
+	}
+}
+@media screen and (min-width:576px) and (max-width:767px){
+	.bethemesme_contact_module .contact-item{
+		display:none;
+	}
+}
+@media screen and (min-width:320px) and (max-width:575px){
+	.bethemesme_contact_module .contact-item{
+		display:none;
+	}
+
+}

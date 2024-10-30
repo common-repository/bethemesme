@@ -1,0 +1,111 @@
+/*--------------------------------------------------------------
+	Icon Service Module
+--------------------------------------------------------------*/
+.icon-service-box {
+	margin: 10px 0;
+}
+.icon-service-box a:hover {
+	text-decoration: none;
+}
+.service-icon {
+	display: inline-block;
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 30px;
+	border: 2px solid;
+	border-radius: 50%;
+
+	-webkit-transition: all .5s ease-in-out;
+			transition: all .5s ease-in-out;
+}
+.service-icon i {
+	font-size: 3.231em;
+	line-height: 96px;
+	border-radius: 50%;
+
+	-webkit-transition: all 1s ease;
+			transition: all 1s ease;
+}
+
+.icon-service-module .icon-service-box:hover .service-icon i {
+	-webkit-transform: rotate(360deg);
+		-ms-transform: rotate(360deg);
+			transform: rotate(360deg);
+}
+.icon-service-img-module .icon-box-img img {
+	margin-left: auto;
+	margin-right: auto;
+}
+.service-icon img {
+    display: inline-block;
+    margin: 0;
+    margin-top: -5px;
+}
+.service_fade_icon img {
+    position: relative;
+    top: 33px;
+    left: 20px;
+}
+.bethemesme_icon_service .icon-elementor-box{
+	box-shadow: 0 14px 18px 0 rgb(0 0 0 / 4%);
+	background-color: #ffffff;
+	padding:28px;
+	position: relative;
+	overflow: hidden;
+}
+.bethemesme_icon_service .service-icon {
+	position: relative;
+	margin-left: 0;
+	top: 0;
+	z-index: 2;
+	left: 0;
+	margin-bottom: 30px;
+   line-height:60px;
+	text-align: center;
+	border-radius: 50%;
+	width:60px;
+	height:60px;
+}
+.bethemesme_icon_service .icon-elementor-box {
+	margin: 0;
+	padding: 40px 20px;
+	background: #fdf4f7;
+}
+.bethemesme_icon_service .icon-service-box:hover .service-icon i {
+	-webkit-transform: rotate(
+360deg);
+	-ms-transform: rotate(360deg);
+	transform: rotate(
+360deg);
+}
+.bethemesme_icon_service .service_fade_icon{
+	position: absolute;
+	width: 96px;
+	height: 96px;
+	font-size: 50px;
+	border: 0px;
+	border-radius: 50%;
+	opacity: 0.2;
+	left: auto;
+	color: #fff;
+	text-align: left;
+	line-height: 90px;
+	right: -20px;
+	top: -20px;
+}
+.bethemesme_icon_service .service_fade_icon i {
+	position: absolute;
+	bottom: 14px;
+	left: 15px;
+}
+.bethemesme_icon_service .service-icon i {
+	font-size:35px;
+	line-height: 60px;
+	color: #f54e5a;
+}
+.bethemesme_icon_service .service_fade_icon.service_fade_left_icon{
+	left: -20px;
+}
+.service_fade_icon.service_fade_left_icon i {
+	margin-left: 10px;
+}

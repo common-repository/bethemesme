@@ -1,0 +1,303 @@
+/*--------------------------------------------------------------
+   Portfolio
+--------------------------------------------------------------*/
+.bethemesme_portfolio  #portfolio-loader {
+	display: none;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 48px;
+	height: 48px;
+	margin: -24px 0 0 -24px;
+	background-color: rgba(0,0,0,.7);
+	border-radius: 3px;
+	color: #fff;
+	font-size: 24px;
+	line-height: 48px;
+	text-align: center;
+	z-index: 999;
+}
+/*--------------------------------------------------------------
+   Portfolio Filter
+--------------------------------------------------------------*/
+.bethemesme_portfolio  #portfolio-filter {
+	margin-bottom: 30px;
+}
+.bethemesme_portfolio  #portfolio-filter a {
+	display: inline-block;
+	margin: 5px;
+	padding: 5px 20px; 
+	font-size: .846em;
+	letter-spacing: .273em;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: 1px solid #f2296f;
+	-webkit-transition: all .3s ease;
+			transition: all .3s ease;
+}
+
+/*--------------------------------------------------------------
+   Portfolio Item
+--------------------------------------------------------------*/
+.bethemesme_portfolio  .portfolio-item {
+	overflow: hidden;
+	max-width:25%;
+}
+.bethemesme_portfolio  .portfolio-caption {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 0 10%;
+	overflow: hidden;
+	text-align: center;
+	opacity: .8;
+
+	display: -webkit-flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+
+	-webkit-flex-direction: column;
+	 -webkit-box-direction: normal;
+	  -webkit-box-orient: vertical;
+		-ms-flex-direction: column;
+			flex-direction: column;
+
+	-webkit-justify-content: center;
+		   -webkit-box-pack: center;
+			  -ms-flex-pack: center;
+			justify-content: center;
+}
+
+body:not(.device-touch) .portfolio-caption {
+	opacity: 0;
+
+	-webkit-transform: scale(.3);
+		-ms-transform: scale(.3);
+			transform: scale(.3);
+}
+
+.bethemesme_portfolio  .portfolio-item a {
+	display: block;
+}
+
+.bethemesme_portfolio  .portfolio-caption .entry-title {
+	font-size: 1.231em;
+	font-weight: 700;
+	letter-spacing: .188em;
+	text-transform: uppercase;
+}
+
+.bethemesme_portfolio  .portfolio-caption .entry-meta {
+	font-size: .846em;
+	letter-spacing: .091em;
+}
+
+body:not(.device-touch) .portfolio-caption .entry-meta {
+	-webkit-transform: translateY(-10px);
+		-ms-transform: translateY(-10px);
+			transform: translateY(-10px);
+}
+
+body:not(.device-touch) .portfolio-caption .entry-title {
+	-webkit-transform: translateY(10px);
+		-ms-transform: translateY(10px);
+			transform: translateY(10px);
+}
+
+body:not(.device-touch) .portfolio-item a:hover .portfolio-image {
+	-webkit-transform: scale(1.25);
+		-ms-transform: scale(1.25);
+			transform: scale(1.25);
+}
+
+.bethemesme_portfolio  .portfolio-image,
+.bethemesme_portfolio .portfolio-caption,
+.bethemesme_portfolio .portfolio-caption .entry-meta,
+.bethemesme_portfolio .portfolio-caption .entry-title {
+	-webkit-transition: all .6s ease;
+			transition: all .6s ease;
+}
+
+.bethemesme_portfolio .portfolio-item a:hover .portfolio-caption .entry-meta,
+.bethemesme_portfolio .portfolio-item a:hover .portfolio-caption .entry-title {
+	-webkit-transform: translateY(0);
+		-ms-transform: translateY(0);
+			transform: translateY(0);
+}
+
+.bethemesme_portfolio .portfolio-item a:hover .portfolio-caption {
+	opacity: 1;
+
+	-webkit-transform: scale(1);
+		-ms-transform: scale(1);
+			transform: scale(1);
+}
+.bethemesme_portfolio .showall_btn_wrap{
+	margin-top:50px;
+}
+/*--------------------------------------------------------------
+Portfolio Detail
+--------------------------------------------------------------*/
+.bethemesme_portfolio  #portfolio-container {
+	position: relative;
+	display: none;
+	overflow: hidden;
+	margin-bottom: 60px;
+}
+
+.bethemesme_portfolio .portfolio-ajax-title {
+	position: relative;
+	padding-bottom: 10px;
+	border-bottom: 1px solid;
+}
+
+.bethemesme_portfolio #portfolio-navigation {
+	position: absolute;
+	top: 5%;
+	right: 0;
+	left: auto;
+	width: 30%;
+	font-size: 2em;
+	text-align: right;
+}
+
+.bethemesme_portfolio #portfolio-navigation a:first-child {
+	margin-left: 0 !important;
+}
+
+.bethemesme_portfolio #portfolio-navigation a:last-child {
+	margin-right: 0 !important;
+}
+
+.bethemesme_portfolio #portfolio-navigation #close-portfolio {
+	margin: 0 5px;
+}
+
+.bethemesme_portfolio .portfolio-ajax-title h2 {
+	font-size: 2em;
+	font-weight: 500;
+	letter-spacing: .077em;
+}
+
+.bethemesme_portfolio .portfolio-meta {
+	list-style: none;
+	padding: 0;
+}
+
+.bethemesme_portfolio .portfolio-meta li {
+	display: inline-block;
+	width: 50%;
+	font-weight: 600;
+}
+
+.bethemesme_portfolio .portfolio-meta li span {
+	display: inline-block;
+	width: 120px;
+	font-weight: 600;
+}
+
+.bethemesme_portfolio .portfolio-meta li span i {
+	width: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+
+.bethemesme_portfolio .container-fluid.portfolio_el_container{
+	margin:0px auto;
+}
+.bethemesme_portfolio{
+	background-color:transparent;
+}
+.bethemesme_portfolio a.bethemesme_btn_text{
+	transition: 0.35s;
+	position: relative;
+	padding: 15px 35px;
+}
+.bethemesme_portfolio .bethemesme_btn_text span{
+	position: relative;
+	z-index: 99;
+	color:#fff;
+}
+.bethemesme_portfolio .bethemesme_btn_text:hover span{
+	color:#f2295b;
+}
+.bethemesme_portfolio .bethemesme_btn_text:before{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	-webkit-transition: all 0.35s;
+	-moz-transition: all 0.35s;
+	-o-transition: all 0.35s;
+	transition: all 0.35s;
+}
+.bethemesme_portfolio .bethemesme_btn_text:after{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	opacity: 0;
+	-webkit-transition: all 0.35s;
+	-moz-transition: all 0.35s;
+	-o-transition: all 0.35s;
+	transition: all 0.35s;
+	border: 2px solid transparent;
+	-webkit-transform: scale(1.2, 1.2);
+	-moz-transform: scale(1.2, 1.2);
+	-ms-transform: scale(1.2, 1.2);
+	-o-transform: scale(1.2, 1.2);
+	transform: scale(1.2, 1.2);
+}
+.bethemesme_portfolio .bethemesme_btn_text:hover:after{
+	opacity: 1;
+	border: 2px solid;
+	-webkit-transform: scale(1, 1);
+	-moz-transform: scale(1, 1);
+	-ms-transform: scale(1, 1);
+	-o-transform: scale(1, 1);
+	transform: scale(1, 1);
+}
+.bethemesme_portfolio .bethemesme_btn_text:hover:before{
+	opacity: 0;
+	-webkit-transform: scale(0.5, 0.5);
+	-moz-transform: scale(0.5, 0.5);
+	-ms-transform: scale(0.5, 0.5);
+	-o-transform: scale(0.5, 0.5);
+	transform: scale(0.5, 0.5);
+}
+.bethemesme_portfolio .bethemesme_btn_text:before {
+    background-color: transparent;
+    background-image: linear-gradient(100deg, #F87759 0%, #f2295b 100%);
+}
+.bethemesme_portfolio .bethemesme_btn_text:hover:after {
+    border-color: #F2295B;
+}
+.fancybox-skin{
+	padding:0px!important;
+}
+.fancybox-title.fancybox-title-float-wrap{
+	display:none;
+}
+.fancybox-nav span:before{
+	
+}
+@media screen and (min-width:576px) and (max-width:767px){
+	.bethemesme_portfolio .portfolio-item{
+		max-width:50%;
+	}
+}
+@media screen and (min-width:320px) and (max-width:575px){
+	.bethemesme_portfolio .portfolio-item {
+		max-width:100%!important;
+	}
+}

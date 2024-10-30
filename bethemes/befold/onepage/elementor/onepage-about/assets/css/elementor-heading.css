@@ -1,0 +1,86 @@
+/*================About-New-Module======================*/
+.onepage_about {
+	padding: 20px 10px;
+}
+.onepage_about .onepage_about_caption{
+	text-align:center;
+}
+
+.onepage_about .onepage_about_background_text {
+    text-transform: capitalize;
+}
+
+.onepage_about .onepage_about_caption .onepage_about_title{
+	font-size: 13px;
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 2px;
+	color: #ff4070;
+	font-family: "Poppins", sans-serif;
+}
+
+.onepage_about .onepage_about_caption h2.onepage_about_sub_title {
+	padding-bottom:20px;
+	position:relative;
+	margin-top: 22px;
+	font-size: 50px;
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.28;
+	letter-spacing: 1px;
+	font-family: "Poppins", sans-serif;
+}
+section#ver-promo .onepage_about .onepage_about_caption h2.onepage_about_sub_title {
+    color:#fff;
+}
+.onepage_about .onepage_about_caption .onepage_about_content{
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.73;
+	letter-spacing: normal;
+	color: #888888;
+	margin: 10px 0 0;
+	font-family: "Poppins", sans-serif;
+}
+.onepage_about .onepage_about_caption .onepage_about_sub_title.sepline:before, 
+.onepage_about .onepage_about_caption .onepage_about_sub_title.sepline:after{
+	position: absolute;
+	content: "";
+}
+.onepage_about .onepage_about_caption .onepage_about_sub_title.sepline:before{
+	border-top-width: 3px;
+	border-top-style: solid;
+}
+.onepage_about .onepage_about_caption .onepage_about_sub_title.sepline:after{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-color: #ddd;
+}
+.onepage_about .onepage_about_caption .onepage_about_sub_title.sepline:before {
+	width: 50px;
+	bottom:0;
+	left: 50%;
+	transform: translateX(-50%);
+	transition: width .7s;
+	color: #f43a5b;
+
+}
+.onepage_about .onepage_about_caption .onepage_about_sub_title.sepline:after {
+	width: 150px;
+	bottom:0;
+	left: 50%;
+	transform: translateX(-50%);
+} 
+.onepage_about .onepage_about_caption .onepage_about_sub_title.sepline:hover:before {
+	width: 150px
+}
+@media screen and (min-width:320px) and (max-width:575px){
+	.onepage_about .onepage_about_caption h2.onepage_about_sub_title{
+		font-size:36px;
+	}
+}

@@ -1,0 +1,111 @@
+/**
+ * Import Modals
+ */
+
+/* 1. Ensure this sits above everything when visible */
+.update_popup .modal {
+    position: absolute;
+    z-index: 10000;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+}
+.appearance_page_one-click-demo-import .update_popup .modal-heading {
+    margin: 0px;
+	line-height: 45px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.update_popup .modal.is-visible {
+    visibility: visible;
+}
+.update_popup .modal-overlay {
+	position: fixed;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: hsla(0, 0%, 0%, 0.5);
+	visibility: hidden;
+	opacity: 0;
+	transition: visibility 0s linear 0.3s, opacity 0.3s;
+}
+.update_popup .modal.is-visible .modal-overlay {
+	opacity: 1;
+	visibility: visible;
+	transition-delay: 0s;
+}
+.update_popup .modal-wrapper {
+	position: fixed;
+	z-index: 9999;
+	top: 35%;
+	left: 30%;
+	width: 100%;
+	max-width: 600px;
+	min-height: 250px;
+	background-color: #fff;
+	box-shadow: 0 0 1.5em hsla(0, 0%, 0%, 0.35);
+}
+.update_popup .modal-transition {
+	transition: all 0.3s 0.12s;
+	transform: translateY(-10%);
+	opacity: 0;
+}
+.update_popup .modal.is-visible .modal-transition {
+	transform: translateY(0);
+	opacity: 1;
+	border-radius: 5px;
+}
+.update_popup .modal-header{
+	padding: 30px;
+}
+.update_popup .modal-content {
+    padding: 20px 50px;
+}
+.update_popup .modal-content p.betheme_massage {
+    font-size: 18px;
+	margin-top: 0;
+}
+.update_popup .modal-header {
+	position: relative;
+	background-color: #fff;
+	box-shadow: 0 1px 2px hsla(0, 0%, 0%, 0.06);
+	border-bottom: 1px solid #e8e8e8;
+	border-radius: 5px;
+}
+.update_popup .modal-close {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	padding: 10px;
+	color: #aaa;
+	background: none;
+	border: 0;
+	cursor:pointer;
+}
+.update_popup button.modal-close:before {
+    content: '\f153';
+	font: normal 20px/1 dashicons;
+    display: block;
+    font-size: 25px;
+    color:#f2296f;
+}
+.update_popup .button_update{
+	padding: 15px;
+    background-image: linear-gradient(
+100deg, #f87c57, #f2296f);
+    font-size: 16px;
+	font-weight:600;
+	display:block;
+    text-decoration: none;
+    color: #fff !important;
+    border-radius: 5px;
+	text-align:center;
+	outline:none;
+	margin-bottom: 10px;
+}

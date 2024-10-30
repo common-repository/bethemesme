@@ -1,0 +1,894 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BeTheme
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BeThemesMe 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-22 16:07+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bethemes/befold/inc/befold-helper.php:13
+msgid "icon found."
+msgstr ""
+
+#: bethemes/befold/inc/befold-helper.php:14
+msgid "icons found."
+msgstr ""
+
+#: bethemes/befold/inc/befold-helper.php:15
+msgid "No icons found."
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/elementor-addons.php:23
+msgid "Befold OnePage Widgets"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:20
+msgid "OnePage Heading"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:31
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:31
+msgid "About Option"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:40
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:40
+msgid "Heading Title"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:42
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:42
+msgid "About Title"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:43
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:43
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:43
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:43
+msgid "Enter Title"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:53
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:53
+msgid "Sub Heading Title"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:55
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:43
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:55
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:43
+msgid "Lorem ipsum dolor sit"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-about/onepage-about-cntrl.php:56
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:44
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:56
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:44
+msgid "Enter Sub Title"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:19
+msgid "OnePage Banner"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:31
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:31
+msgid "Banner Option"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:40
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:40
+msgid "Heading"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:42
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:42
+msgid "Be <span>Imaginative</span> Be <span>Yourself</span>"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:53
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:130
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:53
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:130
+msgid "Content"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:56
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:56
+msgid "We handcraft well-thought-out WordPress themes"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:57
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:57
+msgid "Enter Content"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:68
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:43
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:54
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:68
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:43
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:54
+msgid "Button Text"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:70
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:56
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:70
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:56
+msgid "Learn More"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:71
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:71
+msgid "Enter Button Text"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:81
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:54
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:66
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:81
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:54
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:66
+msgid "Button URL"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:83
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:56
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:78
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:68
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:83
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:56
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:78
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:68
+msgid "http://betheme.me"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:84
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:57
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:69
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:84
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:57
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:69
+msgid "Enter Button URL"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-banner/onepage-banner-cntrl.php:95
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:95
+msgid "Background Image"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-blog/onepage-blog-cntrl.php:20
+msgid "OnePage Blog"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-blog/onepage-blog-cntrl.php:31
+#: bethemes/default/elementor/bethemesme-blog/bethemesme-blog-cntrl.php:31
+msgid "Blog Slider Option"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-blog/onepage-blog-cntrl.php:40
+#: bethemes/default/elementor/bethemesme-blog/bethemesme-blog-cntrl.php:40
+msgid "Read More Button Text"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-blog/onepage-blog-cntrl.php:42
+#: bethemes/default/elementor/bethemesme-blog/bethemesme-blog-cntrl.php:42
+msgid "Read More"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:23
+msgid "OnePage Button"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:34
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:34
+msgid "Button Option"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:45
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:45
+msgid "Follow Us"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-btn/onepage-btn-cntrl.php:46
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:57
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:46
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:57
+msgid "Enter Twitter Username"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:22
+msgid "OnePage Contact"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:33
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:33
+msgid "Contact Option"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:42
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:42
+msgid "Send Button Text"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:44
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:44
+msgid "Send"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:53
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:53
+msgid "Enable privacy checkbox?"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:55
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:55
+msgid "Yes"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:56
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:56
+msgid "No"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:58
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:58
+msgid "no"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:67
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:67
+msgid "Select privacy page"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:82
+#: bethemes/befold/onepage/inc/cmb/CMB.php:188
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:82
+msgid "Label"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:84
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:84
+msgid "List Item"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:91
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:53
+#: bethemes/befold/onepage/inc/cmb/CMB.php:148
+#: bethemes/befold/onepage/inc/cmb/CMB.php:194
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:91
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:53
+msgid "Description"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:99
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:65
+#: bethemes/befold/onepage/inc/cmb/CMB.php:154
+#: bethemes/befold/onepage/inc/cmb/CMB.php:200
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:99
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:65
+msgid "Icon"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:106
+#: bethemes/befold/onepage/inc/cmb/CMB.php:162
+#: bethemes/befold/onepage/inc/cmb/CMB.php:208
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:106
+msgid "URL"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:108
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:108
+msgid "https://your-link.com"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:114
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:114
+msgid "Animation"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:121
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:121
+msgid "Contact data"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:138
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:138
+msgid "Ci Title Typography"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-cntrl.php:147
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:147
+msgid "Ci Content Typography"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:39
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:39
+msgid "This field is required."
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:40
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:40
+msgid "Please check your math."
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:41
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:41
+msgid "Invalid email address."
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:52
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:52
+msgid "Name"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:56
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:56
+msgid "Email"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:60
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:60
+msgid "Phone"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:64
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:64
+msgid "Subject"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:68
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:68
+msgid "Message"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-contact/onepage-contact-output.php:81
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-output.php:81
+msgid "By filling out this form and clicking submit, you agree to our "
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:22
+msgid "OnePage Icon Service"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:33
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:33
+msgid "Icon Service Option"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:42
+#: bethemes/befold/onepage/inc/cmb/CMB.php:141
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:42
+msgid "Title"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:44
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:44
+msgid "Enter the Title"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:56
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:56
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:67
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:67
+msgid "fa fa-address-book"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:76
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:76
+msgid "Section Icon Service Icon URL"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-icon/onepage-icon-cntrl.php:79
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:79
+msgid "Enter Icon Servicen URL"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:20
+msgid "OnePage Portfolio"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:31
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:31
+msgid "Portfolio Option"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:40
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:40
+msgid "Enable Portfolio Filter?"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:42
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:42
+msgid "Enable"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:43
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:43
+msgid "Disable"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:45
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:45
+msgid "yes"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:54
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:54
+msgid "Show All Button Text"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:56
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:56
+msgid "Show All"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:65
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:68
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:65
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:68
+msgid "Show More Button Text"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:67
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:67
+msgid "Show More"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:81
+#: bethemes/befold/onepage/elementor/onepage-portfolio/onepage-portfolio-cntrl.php:84
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:81
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:84
+msgid "Show More Button URL"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:20
+msgid "OnePage Vertical Promotion"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:32
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:32
+msgid "Vertical Promotion"
+msgstr ""
+
+#: bethemes/befold/onepage/elementor/onepage-vertical/onepage-vertical-promo-cntrl.php:41
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:41
+msgid "Sub Title"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/helper-functions.php:45
+msgid "Verification error. Try again!"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/helper-functions.php:57
+msgid "phone"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/helper-functions.php:62
+msgid "Thank you. The Mailman is on his way!"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/helper-functions.php:64
+msgid "Sorry, don't know what happened. Try later!"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:41
+#: includes/custom-menu/menu-item-custom-field.php:160
+msgid "Choose Icon"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:42
+#: includes/custom-menu/menu-item-custom-field.php:162
+msgid "Remove Icon"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:52
+#: includes/custom-menu/menu-item-custom-field.php:171
+msgid "Type to search icons"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:84
+msgid "Portfolio Metabox"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:91
+msgid "Created by:"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:97
+msgid "Completed on:"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:103
+msgid "Skills:"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:109
+msgid "Client's Name:"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:115
+msgid "Client's URL:"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:124
+msgid "Services Metabox"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:133
+msgid "Service Box {#}"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:134
+msgid "Add Another Service Box"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:135
+msgid "Remove Service Box"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:142
+msgid "If you want to color the word, just wrap it with \"span\" tag."
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:171
+msgid "Contact Metabox"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:180
+msgid "Contact Box {#}"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:181
+msgid "Add Another Contact Box"
+msgstr ""
+
+#: bethemes/befold/onepage/inc/cmb/CMB.php:182
+msgid "Remove Contact Box"
+msgstr ""
+
+#: bethemes/default/elementor/elementor-addons.php:23
+msgid "Bethemes Widgets"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-about/bethemesme-about-cntrl.php:20
+msgid "BeThemesMe Heading"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-banner/bethemesme-banner-cntrl.php:19
+msgid "BeThemesMe Banner"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-blog/bethemesme-blog-cntrl.php:20
+msgid "BeThemesMe Blog"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-btn/bethemesme-btn-cntrl.php:23
+msgid "BeThemesMe Button"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-contact/bethemesme-contact-cntrl.php:22
+msgid "BeThemesMe Contact"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-icon/bethemesme-icon-cntrl.php:22
+msgid "BeThemesMe Icon Service"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-portfolio/bethemesme-portfolio-cntrl.php:20
+msgid "BeThemesMe Portfolio"
+msgstr ""
+
+#: bethemes/default/elementor/bethemesme-vertical/bethemesme-vertical-promo-cntrl.php:20
+msgid "BeThemesMe Vertical Promotion"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Field.php:978
+#: includes/cmb2/includes/CMB2_Field.php:982
+msgid "None"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:86
+#: includes/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:118
+#: includes/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:137
+#: includes/cmb2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:138
+#: includes/cmb2/includes/CMB2_Types.php:357
+#: includes/cmb2/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:139
+#: includes/cmb2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:140
+#: includes/cmb2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Types.php:749
+#: includes/cmb2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr ""
+
+#: includes/cmb2/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr ""
+
+#: includes/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: includes/cpt/CPT.php:395 includes/cpt/CPT.php:396 includes/cpt/CPT.php:397
+#: includes/cpt/CPT.php:398 includes/cpt/CPT.php:493 includes/cpt/CPT.php:494
+#: includes/cpt/CPT.php:495 includes/cpt/CPT.php:622
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/cpt/CPT.php:399
+msgid "Add New"
+msgstr ""
+
+#: includes/cpt/CPT.php:400 includes/cpt/CPT.php:500
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:401 includes/cpt/CPT.php:497
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:402
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:403 includes/cpt/CPT.php:498
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:404 includes/cpt/CPT.php:504
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:405 includes/cpt/CPT.php:509
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: includes/cpt/CPT.php:406
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: includes/cpt/CPT.php:407 includes/cpt/CPT.php:503
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/cpt/CPT.php:496
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:499
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:501
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/cpt/CPT.php:502
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:505
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:506
+#, php-format
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: includes/cpt/CPT.php:507
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:508
+#, php-format
+msgid "Choose from most used %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:696
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: includes/cpt/CPT.php:822
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: includes/custom-menu/menu-item-custom-field.php:69
+msgid "Menu Icon"
+msgstr ""
+
+#: includes/custom-menu/menu-item-custom-field.php:159
+msgid "Select an icon for the menu item"
+msgstr ""
+
+#: includes/custom-menu/menu-item-custom-field.php:324
+msgid "Add a menu"
+msgstr ""
